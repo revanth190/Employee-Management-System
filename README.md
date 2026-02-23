@@ -11,7 +11,7 @@ This project demonstrates backend development using Java, Spring Boot, JPA, and 
 - 👤 Create, Update, Delete Employees
 - 🔐 Role-Based Access Control (Admin / Manager / Employee)
 - 🗓 Leave Request Management
-- 📊 Attendance Tracking
+- 👱🏼 Role Based Access
 - 🗄 Database Integration with MySQL
 - 📑 API Documentation using Swagger
 
@@ -127,8 +127,8 @@ http://localhost:8080/swagger-ui/index.html
 
 ## 👨‍💻 Author
 
-Revanth Tungala  
-GitHub: https://github.com/your-username
+Tungala Revanth 
+GitHub: https://github.com/revanth190
 
 ---
 
